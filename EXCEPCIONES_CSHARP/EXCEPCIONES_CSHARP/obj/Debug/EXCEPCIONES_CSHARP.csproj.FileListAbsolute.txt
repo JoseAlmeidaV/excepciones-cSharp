@@ -1,0 +1,7 @@
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\bin\Debug\EXCEPCIONES_CSHARP.exe.config
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\bin\Debug\EXCEPCIONES_CSHARP.exe
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\bin\Debug\EXCEPCIONES_CSHARP.pdb
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\obj\Debug\EXCEPCIONES_CSHARP.csproj.AssemblyReference.cache
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\obj\Debug\EXCEPCIONES_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\obj\Debug\EXCEPCIONES_CSHARP.exe
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\excepciones-cSharp\EXCEPCIONES_CSHARP\EXCEPCIONES_CSHARP\obj\Debug\EXCEPCIONES_CSHARP.pdb
